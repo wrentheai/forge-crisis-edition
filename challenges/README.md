@@ -1,54 +1,37 @@
 # Beat the Crisis -- Weekly Challenges 🏆
 
-Every Monday, a new challenge drops. Fix or build something using ONLY what you already have. No buying. No Amazon. No excuses.
+Fix. Build. Save. Every week, a new challenge. No buying sprees. No Amazon. Just your hands, your garage, and Forge.
 
-Post your result with **#ForgeSaved** and the dollar amount.
-
----
-
-## Week 1: The $0 Phone Stand
-> Build a phone stand from cardboard, wire hangers, or whatever's in your recycling bin.
-> Bonus: make it adjustable.
-
-## Week 2: Fix a Leak
-> Find something in your house that leaks -- faucet, hose, window, pipe -- and fix it with zero new parts.
-> Bonus: calculate your monthly water bill savings.
-
-## Week 3: E-Waste Solar
-> Take an old phone charger, a dead laptop battery, or any e-waste and build something that captures or stores solar energy.
-> Bonus: charge a phone with it.
-
-## Week 4: MPG Challenge
-> Apply at least 3 Forge MPG tips to your car. Track fuel economy for a week.
-> Bonus: beat 15% improvement.
-
-## Week 5: The Junk Drawer Build
-> Open your junk drawer. Build something useful from ONLY what's inside it.
-> Bonus: sell it to a neighbor.
-
-## Week 6: No-Power Cooking
-> Cook a full meal without electricity or gas. Solar oven, rocket stove, whatever.
-> Bonus: feed more than yourself.
-
-## Week 7: Print a Replacement
-> Something in your house is broken because one small plastic part failed. 3D print or fabricate a replacement.
-> Bonus: share the STL.
-
-## Week 8: Neighborhood Fix-It
-> Fix something for a neighbor using only your garage tools.
-> Bonus: teach them how so they can do it next time.
+Post results with **#ForgeSaved** and tag your dollar savings.
 
 ---
 
-## Rules
-1. No buying anything new
+## Active Challenges
+
+### [Challenge 1: Hormuz MPG Hero](001-hormuz-mpg-hero.md) ⛽ -- LIVE NOW
+Improve your car's MPG by at least 10% this week using only scrap.
+**Prize:** Top 5 screenshots get custom 3D-printed Forge stickers, mailed to you.
+
+### [Challenge 2: E-Waste Solar Brick](002-ewaste-solar-brick.md) ☀️ -- Deadline: March 9
+Turn an old laptop battery + $10 in parts into a working USB charger that runs your phone for 3 days.
+
+### [Challenge 3: Delayed Package Killer](003-delayed-package-killer.md) 📦 -- Deadline: March 16
+Pick one Amazon item that's "delayed due to shipping crisis" and redesign it for local 3D printing or hand tools. Post before/after.
+
+---
+
+## Rules (All Challenges)
+
+1. No buying anything new (unless the challenge specifies a budget)
 2. Document with photos or video
-3. Post with #ForgeSaved and estimated dollar savings
-4. Help others in the thread -- this isn't a competition, it's a community
+3. Post with the challenge hashtag + estimated dollar savings
+4. Help others in the thread -- this is a community, not a competition
 
-## Leaderboard
+## Coming Soon
 
-Coming soon -- top savers tracked by community submissions.
+- Challenge 4: "Blackout Kitchen" -- cook for a family of 4 with zero electricity
+- Challenge 5: "The $5 CNC" -- build a functioning cutting jig from hardware store scraps
+- Challenge 6: "Neighborhood Grid" -- connect 3 houses with shared solar backup
 
 ---
 
