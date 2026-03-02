@@ -27,12 +27,4 @@ Pick one Amazon item that's "delayed due to shipping crisis" and redesign it for
 3. Post with the challenge hashtag + estimated dollar savings
 4. Help others in the thread -- this is a community, not a competition
 
-## Coming Soon
-
-- Challenge 4: "Blackout Kitchen" -- cook for a family of 4 with zero electricity
-- Challenge 5: "The $5 CNC" -- build a functioning cutting jig from hardware store scraps
-- Challenge 6: "Neighborhood Grid" -- connect 3 houses with shared solar backup
-
----
-
 *New challenges posted every Monday. Star the repo to stay updated.*
